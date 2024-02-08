@@ -1,0 +1,14 @@
+body{
+    height: 100vh;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    font-family: "Poppins";
+}
+button{
+    width: 100px;
+    height: 50px;
+    border: none;
+    border-radius: 20px;
+}
